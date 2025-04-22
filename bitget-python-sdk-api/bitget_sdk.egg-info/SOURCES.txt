@@ -21,6 +21,8 @@ bitget/v2/mix/__init__.py
 bitget/v2/mix/account_api.py
 bitget/v2/mix/market_api.py
 bitget/v2/mix/order_api.py
+bitget/v2/public/__init__.py
+bitget/v2/public/user_api.py
 bitget/v2/spot/__init__.py
 bitget/v2/spot/account_api.py
 bitget/v2/spot/market_api.py
